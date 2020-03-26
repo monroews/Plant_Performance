@@ -1,4 +1,4 @@
-Time	flow (L/s) 	raw (NTU)	sed (NTU)	filter (NTU)  	1 - Purga	backwash	PAC (mg/L)	Cloro (mg/L)
+Time	flow (L/s) 	raw (NTU)	sed (NTU)	filter (NTU)  	1 - Purga	backwash	coag (mg/L)	Cl (mg/L)
 8/31/2018 8:00	5	3.26	0.01	0.01			5.86	1.57
 8/31/2018 9:00	5	2.89	0.01	0.01			5.86	1.61
 8/31/2018 10:00	5	2.66	0.01	0.01			5.86	1.61

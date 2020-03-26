@@ -1,4 +1,4 @@
-time	flow (L/s)	Raw (NTU)	Sed (NTU)	filter 1 (NTU)	filter 2 (NTU)	filter (NTU)	PACl dose (mg/L)	Chlorine dose (mg/L)	Temperature
+time	flow (L/s)	raw (NTU)	sed (NTU)	filter 1 (NTU)	filter 2 (NTU)	filter (NTU)	coag (mg/L)	Cl (mg/L)	Temperature
 12/1/2015 13:39	17	3.12	0.19	0	0	0	9.54	0.99	17
 12/2/2015 6:36	16	3.8	0.39	0	0	0	11.75		18
 12/2/2015 13:30	18	3.2	0.38	0	0	0	10.86	0.9	18
